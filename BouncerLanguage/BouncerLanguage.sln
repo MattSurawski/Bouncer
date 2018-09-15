@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "BouncerLanguage", "BouncerLanguage\BouncerLanguage.fsproj", "{EEB36238-4BD8-4D58-989A-982756146F4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Test1|Any CPU = Test1|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEB36238-4BD8-4D58-989A-982756146F4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEB36238-4BD8-4D58-989A-982756146F4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEB36238-4BD8-4D58-989A-982756146F4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEB36238-4BD8-4D58-989A-982756146F4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEB36238-4BD8-4D58-989A-982756146F4D}.Test1|Any CPU.ActiveCfg = Test1|Any CPU
+		{EEB36238-4BD8-4D58-989A-982756146F4D}.Test1|Any CPU.Build.0 = Test1|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38A7DD30-4E04-4B01-B6DB-B42ED5EDB255}
+	EndGlobalSection
+EndGlobal

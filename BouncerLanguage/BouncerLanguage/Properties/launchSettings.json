@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BouncerLanguage": {
+      "commandName": "Project",
+      "commandLineArgs": "Test1.bouncer"
+    }
+  }
+}
